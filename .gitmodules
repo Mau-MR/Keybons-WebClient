@@ -1,0 +1,3 @@
+[submodule "proto"]
+	path = proto
+	url = https://github.com/Mau-MR/Keybons-ServiceDefinition.git
